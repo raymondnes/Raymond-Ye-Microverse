@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title> Technical documentation page</title>
+  <link href="styles.css" rel="stylesheet">
+</head>
+<body>
+  <nav id="navbar">
+<header><a class="nav-link">JS Documentation</a></header>
+  </nav>
+  <main id="main-doc">
+    <section class="main-section" id="Hello_world"><header><a class="nav-link">Hello world</a></header>
+      <p></p>
+      <p></p>
+      <ul>
+        <li></li>
+        </ul>
+        <code></code>
+    </section>
+    <section class="main-section" id="Variables"><header><a class="nav-link">Variables</header></a>
+      <p></p>
+      <p></p>
+      <ul>
+        <li></li>
+        </ul>
+        <code></code>
+    </section>
+  
+    <section class="main-section" id="Global_Variables"><header><a class="nav-link">Global Variables</a></header>
+      <p></p>
+      <p></p>
+      <ul>
+        <li></li>
+        </ul>
+        <code></code>
+    </section>
+    <section class="main-section" id="Constants"><header><a class="nav-link">Constants</a></header>
+      <p></p>
+      <p></p>
+      <ul>
+        <li></li>
+        </ul>
+        <code></code>
+    </section>
+    <section class="main-section" id="Data_Type"><header><a class="nav-link">Data Type</a></header>
+      <p></p>
+      <p></p>
+      <ul>
+        <li></li>
+        </ul>
+        <code></code>
+    </section>
+
+  </main>
+</body>  
+
+</html>
